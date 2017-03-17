@@ -1,3 +1,3 @@
 # NumericalOptimize
 StudyRepo
-For personal study
+for personal study
